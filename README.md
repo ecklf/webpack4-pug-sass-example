@@ -3,7 +3,7 @@
 Just clone and run:
 >npm i && npm run watch
 
-### Base Filetree:
+### Base filetree:
 - __src__
   - [index.js](src/index.js)
   - [index.pug](src/index.pug)
