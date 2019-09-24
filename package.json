@@ -1,6 +1,6 @@
 {
   "name": "webpack4-pug-sass-example",
-  "version": "1.0.46",
+  "version": "1.0.47",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -12,8 +12,8 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "@babel/core": "7.6.0",
-    "@babel/preset-env": "7.6.0",
+    "@babel/core": "7.6.2",
+    "@babel/preset-env": "7.6.2",
     "babel-loader": "8.0.6",
     "css-loader": "3.2.0",
     "html-loader": "0.5.5",
