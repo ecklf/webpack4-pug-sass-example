@@ -1,6 +1,6 @@
 {
   "name": "webpack4-pug-sass-example",
-  "version": "1.0.54",
+  "version": "1.0.55",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -24,6 +24,6 @@
     "sass-loader": "8.0.0",
     "webpack": "4.41.2",
     "webpack-cli": "3.3.9",
-    "webpack-dev-server": "3.8.2"
+    "webpack-dev-server": "3.9.0"
   }
 }
