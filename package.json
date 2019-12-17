@@ -1,6 +1,6 @@
 {
   "name": "webpack4-pug-sass-example",
-  "version": "1.0.60",
+  "version": "1.0.61",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "css-loader": "3.3.2",
     "html-loader": "0.5.5",
     "html-webpack-plugin": "3.2.0",
-    "mini-css-extract-plugin": "0.8.0",
+    "mini-css-extract-plugin": "0.8.2",
     "node-sass": "4.13.0",
     "pug-html-loader": "1.1.5",
     "sass-loader": "8.0.0",
